@@ -39,15 +39,6 @@ Make sure the following model files are present in the project directory:
 - `knn_model_tuned.pkl` — Trained KNN model and scaler for SL agent
 - `pong_rl_policy.pth` — Trained DQN model for RL agent
 
-## 🖥️ Optional: GUI Launcher
-
-To launch the game using a graphical interface:
-
-```
-python main_gui.py
-```
-
-This will allow you to select the mode via buttons.
 
 ## 📁 Project Structure
 
